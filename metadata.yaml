@@ -1,10 +1,13 @@
 _repo: The-Song-of-Hugh-Glass_53667
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   commentator:
     agent_name: House, Julius T. (Julius Temple)
     gutenberg_agent_id: '47482'
     url: http://www.gutenberg.org/2009/agents/47482
+covers:
+- cover_type: archival
+  image_path: 53667-h/images/cover.jpg
 creator:
   author:
     agent_name: Neihardt, John G.
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6935
     wikipedia: http://en.wikipedia.org/wiki/John_Neihardt
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53667#The-Song-of-Hugh-Glass
 gutenberg_issued: '2016-12-04'
 gutenberg_type: Text
 identifiers:
